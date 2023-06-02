@@ -1,2 +1,2 @@
-# Construction-CERs
-A collection of Cost Estimating Relationships related to construction.
+# Foundational Cost Models
+Data from the ICEAA talk on May 16, 2023.
